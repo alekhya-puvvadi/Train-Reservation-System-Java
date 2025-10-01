@@ -1,4 +1,4 @@
-package com.shashi.beans;
+ package com.shashi.beans;
 
 import java.io.Serializable;
 
@@ -72,3 +72,4 @@ public class BookingDetails implements Serializable {
 	}
 
 }
+
